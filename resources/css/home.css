@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header,footer{
+    position: absolute;
+    background-color: #c4b7d7;
+    width: 100%;
+}
+header{
+    height: 10vh;
+}
+footer{
+    height: 15vh;
+    bottom: 0;
+}
